@@ -1,4 +1,6 @@
-# Burger builder 
+
+# BurgerBuilder
+This is react application that build the burger with the selected ingredients.
 
 * Users can: 
   - build the burger with the ingrident they want 
