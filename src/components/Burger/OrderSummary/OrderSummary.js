@@ -13,12 +13,15 @@ const orderSummary = props => {
 
   return (
     <Aux>
+      
       <h3> Your Order</h3>
       <p>A delicious burger with the followiing ingridents</p>
       <ul>
           {ingridentSummary}
       </ul>
       <p>Continue to checkout</p>
+      <button>CANCEL</button>
+      <button>CONTINUE</button>
     </Aux>
   );
 };
